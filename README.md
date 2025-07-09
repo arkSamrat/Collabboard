@@ -20,8 +20,8 @@
 
 ## 🚀 Live Link and Demo
 
-- 🔗 **Live App:** [https://collabboard.vercel.app](https://collabboard.vercel.app)  
-- 📹 **Demo Video:** [Watch on Loom](https://loom.com/share/demo-link)
+- 🔗 **Live App:** https://collabboard-frontend-lr6i.vercel.app/  
+- 📹 **Demo Video:** https://drive.google.com/file/d/1Xz0xM0ghdcLEAuQeqHSpO5crkJCV-L4c/view?usp=drivesdk
 
 ---
 
